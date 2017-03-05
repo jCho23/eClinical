@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{4565D5EE-5BB2-4F61-8AFF-2F3FF9F25C7A}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="eClinical/Tests.cs">
+    <Files>
+      <File FileName="eClinical/AppInitializer.cs" Line="32" Column="5" />
+      <File FileName="eClinical/Tests.cs" Line="46" Column="3" />
+      <File FileName="eClinical/packages.config" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="eClinical" expanded="True">
+            <Node name="eClinical" expanded="True">
+              <Node name="eClinical" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="Repl" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.eClinical PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
